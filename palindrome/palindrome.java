@@ -1,6 +1,6 @@
 package palindrome ;
 import java.util.Scanner;
-
+//This program checks whether a number is palindrome
 public class palindrome {
     public static void main(String[] args) {
 
